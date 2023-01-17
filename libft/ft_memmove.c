@@ -6,7 +6,7 @@
 /*   By: albgonza <albgonza@student.42malaga.com    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/04/21 11:53:50 by albgonza          #+#    #+#             */
-/*   Updated: 2022/05/06 19:41:03 by albgonza         ###   ########.fr       */
+/*   Updated: 2022/12/05 18:24:48 by albgonza         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -20,11 +20,9 @@ La función ft_memmove() devuelve un puntero a dest.
 */
 void	*ft_memmove(void *dst, const void *src, size_t length)
 {
-	size_t	cont;
 	char	*dest;
 	char	*source;
 
-	cont = 0;
 	dest = dst;
 	source = (void *)src;
 	if (dest > source)
