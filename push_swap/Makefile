@@ -3,10 +3,10 @@
 #                                                         :::      ::::::::    #
 #    Makefile                                           :+:      :+:    :+:    #
 #                                                     +:+ +:+         +:+      #
-#    By: albgonza <albgonza@student.42malaga.com    +#+  +:+       +#+         #
+#    By: marvin <marvin@student.42.fr>              +#+  +:+       +#+         #
 #                                                 +#+#+#+#+#+   +#+            #
 #    Created: 2022/06/10 10:30:29 by albgonza          #+#    #+#              #
-#    Updated: 2023/01/11 17:12:15 by albgonza         ###   ########.fr        #
+#    Updated: 2023/01/18 22:30:57 by marvin           ###   ########.fr        #
 #                                                                              #
 # **************************************************************************** #
 
@@ -36,7 +36,7 @@ all: ascii $(NAME)
 
 $(LIBFT):
 	make -C libft -s
- 
+
 $(NAME): $(OBJS) $(LIBFT)
 	$(CC) $(CFLAGS) $(LIBFLAGS) $(OBJS) $(LIBFT) -o $(NAME)
 	
@@ -57,5 +57,8 @@ fclean: clean
 		@make -C libft fclean -s
 
 re: fclean all
+
+visualize: all
+	python3 python_visualizer.py `ruby -e "puts (7..50).to_a.shuffle.join(' ')"`
 
 .PHONY: all clean fclean re
