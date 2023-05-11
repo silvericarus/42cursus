@@ -14,3 +14,4 @@
 * <a href="https://github.com/silvericarus/42so_long">Repo</a>
 ## Push Swap Folder
 * push_swap -> <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl24yatre003009laqebzjpyg/project/2661891" alt="albgonza's 42 push_swap Score of 84 over 100" /></a>
+* <a href="https://github.com/silvericarus/42push_swap">Repo</a>
