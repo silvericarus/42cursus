@@ -1,3 +1,6 @@
+This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/).
+<br>
+![cc-by-nc-sa-image](https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png)
 # 42 Cursus
 ## Libft Folder: 
 * libft -> <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl24yatre003009laqebzjpyg/project/2565943" alt="albgonza's 42 Libft Score of 123 over 100" /></a>
