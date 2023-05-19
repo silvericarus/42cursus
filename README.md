@@ -1,20 +1,27 @@
+<a href="https://42malaga.com">
+  <img src="https://www.42malaga.com/wp-content/uploads/2021/01/42-Malaga-Fundacion-Telefonica-768x233.png" width="253.44px" height="76.89px">
+</a>
+<br>
 This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/).
 <br>
-![cc-by-nc-sa-image](https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png)
+<img src="https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png">
 # 42 Cursus
-## Libft Folder: 
+## Libft
 * libft -> <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl24yatre003009laqebzjpyg/project/2565943" alt="albgonza's 42 Libft Score of 123 over 100" /></a>
 * ft_printf -> <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl24yatre003009laqebzjpyg/project/2590986" alt="albgonza's 42 ft_printf Score of 100 over 100" /></a>
 * get_next_line -> <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl24yatre003009laqebzjpyg/project/2597848" alt="albgonza's 42 get_next_line Score of 100 over 100" /></a><br>
 * <a href="https://github.com/silvericarus/42libft">Repo</a>
-## No Folder:
+## No Folder
 * born2beroot -> <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl24yatre003009laqebzjpyg/project/2586906" alt="albgonza's 42 Born2beroot Score of 120 over 100" /></a>
-## Minitalk Folder
+## Minitalk
 * minitalk -> <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl24yatre003009laqebzjpyg/project/2773700" alt="albgonza's 42 minitalk Score of 125 over 100" /></a>
 * <a href="https://github.com/silvericarus/42minitalk">Repo</a>
-## So Long Folder
+## So Long
 * so_long -> <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl24yatre003009laqebzjpyg/project/2695479" alt="albgonza's 42 so_long Score of 100 over 100" /></a>
 * <a href="https://github.com/silvericarus/42so_long">Repo</a>
-## Push Swap Folder
+## Push Swap
 * push_swap -> <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl24yatre003009laqebzjpyg/project/2661891" alt="albgonza's 42 push_swap Score of 84 over 100" /></a>
 * <a href="https://github.com/silvericarus/42push_swap">Repo</a>
+## Philosophers
+* philo -> <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl24yatre003009laqebzjpyg/project/3063142" alt="albgonza's 42 Philosophers Score of 100 over 100" /></a>
+* Repo(WIP)
