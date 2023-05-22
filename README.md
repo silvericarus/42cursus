@@ -52,7 +52,7 @@ This repository, and all the repositories mentioned in this file are licensed un
   </tr>
 </table>
 <a href="https://github.com/silvericarus/42minitalk">Main Repository</a>
-<h3So Long</h3>
+<h3>So Long</h3>
 <table>
   <tr>
     <th>Project</th>
@@ -87,4 +87,4 @@ This repository, and all the repositories mentioned in this file are licensed un
     <td><a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl24yatre003009laqebzjpyg/project/3063142" alt="albgonza's 42 Philosophers Score of 100 over 100" /></a></td>
   </tr>
 </table> 
-Main Repository(WIP)
+<a href="https://github.com/silvericarus/42philo">Main Repository</a>
