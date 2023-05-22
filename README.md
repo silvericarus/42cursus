@@ -1,4 +1,4 @@
-<a href="https://42malaga.com">
+<a href="https://42malaga.com" style="background-color:black;">
   <img src="https://www.42malaga.com/wp-content/uploads/2021/01/42-Malaga-Fundacion-Telefonica-768x233.png" width="253.44px" height="76.89px">
 </a>
 <br>
