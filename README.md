@@ -9,6 +9,11 @@ This repository, and all the repositories mentioned in this file are licensed un
    <img src="https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png"><img src="https://www.repostatus.org/badges/latest/active.svg" alt="Project Status: Active – The project has reached a stable, usable state and is being actively developed.">
 </p>
 <h1>42 Cursus</h1>
+<p float="left">
+  <img src="https://raw.githubusercontent.com/byaliego/42-project-badges/main/badges/libftm.png">
+  <img src="https://raw.githubusercontent.com/byaliego/42-project-badges/main/badges/ft_printfn.png">
+  <img src="https://raw.githubusercontent.com/byaliego/42-project-badges/main/badges/get_next_linen.png">
+</p>
 <h3>Libft</h3>
 <table>
   <tr>
@@ -29,6 +34,9 @@ This repository, and all the repositories mentioned in this file are licensed un
   </tr>
  </table>
 <a href="https://github.com/silvericarus/42libft">Main Repository</a>
+<p float="left">
+  <img src="https://raw.githubusercontent.com/byaliego/42-project-badges/main/badges/born2berootm.png">
+ </p>
 <h3>No Folder</h3>
 <table>
   <tr>
