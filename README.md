@@ -5,7 +5,7 @@
 <h4>Disclaimers</h4>
 This repository, and all the repositories mentioned in this file are licensed under a <a href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>, and should be treated as such.<br>
 <b>🚨If you are a 42 Student, be warned not to copy-paste code, it would affect your study. If you need to check other people's code for inspiration, make sure you are actually learning by reading their files.🚨</b>
-The badges in this file are in <a href="https://github.com/byaliego/42-project-badges repository">this</a> repository, it belongs to its contributors. Thanks for the wonderful
+The badges in this file are in <a href="https://github.com/byaliego/42-project-badges repository">this</a> repository, it belongs to its contributors. Thanks for the wonderful art!
 <p float="left">
   <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/"><img src="https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png"></a><a href="https://www.repostatus.org/#active"><img src="https://www.repostatus.org/badges/latest/active.svg" alt="Project Status: Active – The project has reached a stable, usable state and is being actively developed."></a>
 </p>
