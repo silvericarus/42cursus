@@ -30,7 +30,7 @@ The badges in this file are in <a href="https://github.com/byaliego/42-project-b
     <td><a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl24yatre003009laqebzjpyg/project/2597848" alt="albgonza's 42 get_next_line Score of 100 over 100" /></a></td>
   </tr>
  </table>
-<a href="https://github.com/silvericarus/42libft">Main Repository</a>
+<a href="https://github.com/silvericarus/42libft"><img src="https://github-readme-stats.vercel.app/api/pin/?username=silvericarus&repo=42libft"></a>
 <h3>Born2BeRoot</h3>
 <p float="left">
   <img src="https://raw.githubusercontent.com/byaliego/42-project-badges/main/badges/born2berootm.png">
@@ -57,7 +57,7 @@ The badges in this file are in <a href="https://github.com/byaliego/42-project-b
     <td><a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl24yatre003009laqebzjpyg/project/2773700" alt="albgonza's 42 minitalk Score of 125 over 100" /></a></td>
   </tr>
 </table>
-<a href="https://github.com/silvericarus/42minitalk">Main Repository</a>
+<a href="https://github.com/silvericarus/42minitalk"><img src="https://github-readme-stats.vercel.app/api/pin/?username=silvericarus&repo=42minitalk"></a>
 <h3>So Long</h3>
 <img src="https://raw.githubusercontent.com/byaliego/42-project-badges/main/badges/so_longn.png">
 <table>
@@ -70,7 +70,7 @@ The badges in this file are in <a href="https://github.com/byaliego/42-project-b
     <td><a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl24yatre003009laqebzjpyg/project/2695479" alt="albgonza's 42 so_long Score of 100 over 100" /></a></td>
   </tr>
 </table>
-<a href="https://github.com/silvericarus/42so_long">Main Repository</a>
+<a href="https://github.com/silvericarus/42so_long"><img src="https://github-readme-stats.vercel.app/api/pin/?username=silvericarus&repo=42so_long"></a>
 <h3>Push Swap</h3>
 <img src="https://raw.githubusercontent.com/byaliego/42-project-badges/main/badges/push_swapn.png">
 <table>
@@ -83,7 +83,7 @@ The badges in this file are in <a href="https://github.com/byaliego/42-project-b
     <td><a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl24yatre003009laqebzjpyg/project/2661891" alt="albgonza's 42 push_swap Score of 84 over 100" /></a></td>
   </tr>
 </table>
-<a href="https://github.com/silvericarus/42push_swap">Main Repository</a>
+<a href="https://github.com/silvericarus/42push_swap"><img src="https://github-readme-stats.vercel.app/api/pin/?username=silvericarus&repo=42push_swap"></a>
 <h3>Philosophers</h3>
 <img src="https://raw.githubusercontent.com/byaliego/42-project-badges/main/badges/philosophersn.png">
 <table>
@@ -96,4 +96,4 @@ The badges in this file are in <a href="https://github.com/byaliego/42-project-b
     <td><a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl24yatre003009laqebzjpyg/project/3063142" alt="albgonza's 42 Philosophers Score of 100 over 100" /></a></td>
   </tr>
 </table> 
-<a href="https://github.com/silvericarus/42philo">Main Repository</a>
+<a href="https://github.com/silvericarus/42philo"><img src="https://github-readme-stats.vercel.app/api/pin/?username=silvericarus&repo=42philo"></a>
