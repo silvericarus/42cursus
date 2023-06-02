@@ -1,7 +1,3 @@
-<a href="https://42malaga.com" style="background-color:black;">
-  <img src="https://www.42malaga.com/wp-content/uploads/2021/01/42-Malaga-Fundacion-Telefonica-768x233.png" width="253.44px" height="76.89px">
-</a>
-<br>
 <h4>Disclaimers</h4>
 This repository, and all the repositories mentioned in this file are licensed under a <a href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>, and should be treated as such.<br>
 <b>🚨If you are a 42 Student, be warned not to copy-paste code, it would affect your study. If you need to check other people's code for inspiration, make sure you are actually learning by reading their files.🚨</b>
