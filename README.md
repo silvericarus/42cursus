@@ -97,3 +97,16 @@ The badges in this file are in <a href="https://github.com/byaliego/42-project-b
   </tr>
 </table> 
 <a href="https://github.com/silvericarus/42philo"><img src="https://github-readme-stats.vercel.app/api/pin/?username=silvericarus&repo=42philo"></a>
+<h3>minishell</h3>
+<img src="https://github.com/byaliego/42-project-badges/blob/main/badges/minishelln.png">
+<table>
+  <tr>
+    <th>Project</th>
+    <th>Result</th>
+  </tr>
+  <tr>
+    <td>minishell</td>
+    <td><a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl24yatre003009laqebzjpyg/project/3097874" alt="albgonza's 42 minishell Score of 101 over 100" /></a></td>
+  </tr>
+</table>
+<a href="https://github.com/silvericarus/42minishell"><img src="https://github-readme-stats.vercel.app/api/pin/?username=silvericarus&repo=42minishell"></a>
