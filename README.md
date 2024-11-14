@@ -1,3 +1,7 @@
+<p>
+  <img src="https://4.vercel.app/github/languageall/silvericarus/42cursus"/>
+  <img src="https://4.vercel.app/github/size/silvericarus/42cursus"/>
+</p>
 <h4>Disclaimers</h4>
 This repository, and all the repositories mentioned in this file are licensed under a <a href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>, and should be treated as such.<br>
 <b>🚨If you are a 42 Student, be warned not to copy-paste code, it would affect your study. If you need to check other people's code for inspiration, make sure you are actually learning by reading their files.🚨</b>
